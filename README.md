@@ -1,6 +1,9 @@
-# Hey, Shreyash here. 👋
-## Nice to meet you
+<p align="center">Hello, I am Shreyash Joshi</p><br>
+<a href="https://anuraghazra.github.io">My Portfolio Website </a> <br>
 
-- 🎓 Currently pursuing B.Tech in ELectrical Engineering from NIT Silchar
+### About Me
+- 🎓 Currently pursuing B.Tech in ELectrical Engineering from NIT Silchar (6th Semester)
 - ⚡ I like to understand and learn new things.
-- 😁 I have good problem-solving skills.
+- 😁 I am passionate about Full Stack Web Development
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=joshi248&show_icons=true&theme=dracula)
