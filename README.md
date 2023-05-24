@@ -1,5 +1,5 @@
 <p align="center">Hello, I am Shreyash Joshi</p><br>
-<a href="https://anuraghazra.github.io">My Portfolio Website </a> <br>
+<a href="https://joshi248.github.io">My Portfolio Website </a> <br>
 
 ### About Me
 - 🎓 Currently pursuing B.Tech in ELectrical Engineering from NIT Silchar (6th Semester)
