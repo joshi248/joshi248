@@ -7,3 +7,4 @@
 - 😁 I am passionate about Full Stack Web Development
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=joshi248&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiksheetAgarwal&langs_count=8&theme=dark&layout=compact">
